@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "75fd8961a8a18a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "5af2397efcef6537",
+        "type": "tabs",
+        "dimension": 44.136460554371006,
+        "children": [
+          {
+            "id": "6d967af37d305028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/ddia-notes/chapter-1/chapter 1 - reliable, scalable and maintainable applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a5dfce2f547a49f",
+        "type": "tabs",
+        "dimension": 55.863539445628994,
+        "children": [
+          {
+            "id": "3025ac66ac3baec4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "learning/ddia-notes/Designing Data Intensive Applications.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b141a32f648d1aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b5ec233c9b74a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33740acbbfd75733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8583e8cdeaa48084",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fd02a4ab84bff8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6d76cdeeb5f5c793",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca923c4a83d442f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b57748e1997e93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning/ddia-notes/chapter-1/chapter 1 - reliable, scalable and maintainable applications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1c8b838caa785f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learning/ddia-notes/chapter-1/chapter 1 - reliable, scalable and maintainable applications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "471e5c0ba8878113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2cc7592a08ec71a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learning/ddia-notes/chapter-1/chapter 1 - reliable, scalable and maintainable applications.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33740acbbfd75733",
+  "lastOpenFiles": [
+    "learning/ddia-notes/chapter-1/Pasted image 20240205000024.png",
+    "learning/ddia-notes/Designing Data Intensive Applications.pdf",
+    "learning/ddia-notes/chapter-1/chapter 1 - reliable, scalable and maintainable applications.md",
+    "learning/ddia-notes/chapter-1-notes.md",
+    "learning/ddia-notes/chapter-12",
+    "learning/ddia-notes/chapter-11",
+    "learning/ddia-notes/chapter-10",
+    "learning/ddia-notes/chapter-9",
+    "learning/ddia-notes/chapter-8",
+    "learning/ddia-notes/chapter-7",
+    "learning/ddia-notes/chapter-6",
+    "learning/ddia-notes/chapter-5",
+    "learning/ddia-notes/chapter-4",
+    "Projects/project-name-here/project-spec-here.md",
+    "Projects/project-name-here/Untitled 1.md",
+    "Data Eng Project Tracker.md",
+    "Excalidraw/Drawing 2024-01-28 11.13.24.excalidraw.md",
+    "Projects/Data Eng Project - Open Dataset.md",
+    "Excalidraw/Drawing 2024-01-28 10.38.28.excalidraw.md"
+  ]
+}
