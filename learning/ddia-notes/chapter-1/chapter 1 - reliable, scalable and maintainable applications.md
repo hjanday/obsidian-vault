@@ -7,3 +7,4 @@ There are 3 core concerns within software systems:
 3. Maintainability - the system should be upgradeable/adaptable over time (in terms of development)
 
 ## What is Reliability?
+ 

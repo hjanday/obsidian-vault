@@ -1,0 +1,8 @@
+Remember those warm summer days as a kid, when you had limitless energy and new opportunities emerged on the horizon? You could watch TV all day on Saturdays or go bike around the neighborhood, but most importantly, you could get bored. Bored? Isn't boredom something we should solve, you might be asking? After all, being bored implies a lack of things to do, does this mean we should just find new shiny opportunity to chase every time boredom strikes? Although the common answer is yes, the answer you should be inclined to choose is no. 
+
+As time progresses from childhood, into the teenage years and eventually into adulthood, where has the ability to cure boredom shifted to? Well, just look in your pockets and at your desks. You have screens both big and small that are capable of finding brand new content at the click of a button. A combination of computing innovation and the rise of the modern internet has nullified the ability to be bored. With every click and tap, you expose yourself to new content, giving rise to a never ending loop of entertainment, but at what cost?
+
+With our devices allowing us to explore new realms of media, they also inhibit us from our thoughts, flooding our minds with new stimuli and ultimately causing us to be in a near permanent state of stimulation, which sadly has become the norm in modern society. 
+
+Allowing ourselves to experience our thoughts without any form of distractions has become a rarity. Boredom allows us to escape the never-ending stimuli in our day to day lives and connect with ourselves to see what truly drives us. Boredom is our superpower.
+
